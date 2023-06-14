@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a4d884d-a2d9-4b10-8ff2-156e1c8cc2a7" name="Changes" comment="" />
+    <list default="true" id="3a4d884d-a2d9-4b10-8ff2-156e1c8cc2a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StartSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StartSelenium.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.TableTest.testCss">
+  <component name="RunManager" selected="Gradle.StartSelenium.test">
     <configuration name="StartSelenium.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -93,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.TableTest.testCss" />
         <item itemvalue="Gradle.StartSelenium.test" />
+        <item itemvalue="Gradle.TableTest.testCss" />
       </list>
     </recent_temporary>
   </component>
